@@ -1,6 +1,3 @@
-Jammula Varun22:02
-QWE!@#123q`+-
-Jammula Varun22:46
 asgiref==3.7.2
 certifi==2023.7.22
 charset-normalizer==3.3.0
